@@ -23,7 +23,7 @@ This is the backend part of the Artemis task, built with Express and MongoDB.
 
 3. Start the server:
    ```bash
-   npm start / node.server.js
+   npm start or node server.js
    ```
 
 4. The API will run at `http://localhost:3001`.
