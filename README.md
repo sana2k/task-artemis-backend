@@ -8,6 +8,12 @@ This is the backend part of the Artemis task, built with Express and MongoDB.
 - Node.js
 - MongoDB
 
+## Dependecies
+
+- CORS
+- Express
+- Mongoose
+
 ## Installation
 
 1. Clone the repository:
